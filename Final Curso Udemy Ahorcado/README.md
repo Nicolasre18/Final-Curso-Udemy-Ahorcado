@@ -1,7 +1,6 @@
-# Juego de ahorcado
-Ejercicio del curso de programación para principiantes - Juego de ahorcado en React
+Profe conplete el juego, chevere el curso 
 
-# Ejecutar:
+Como Ejecutar:
 
 1. Clonar o descargar el código
 
